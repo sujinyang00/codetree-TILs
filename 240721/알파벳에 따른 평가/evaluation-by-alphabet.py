@@ -9,5 +9,6 @@ elif ch == 'B' :
 elif ch == 'C' :
     rst = 'Usually'
 elif ch == 'D' :
-    rst == 'Effort'
+    rst = 'Effort'
+
 print(rst)
